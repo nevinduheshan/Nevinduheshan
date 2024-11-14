@@ -690,12 +690,22 @@ main.drake-main {
     font-size: 14px;
     font-weight: 400;
 }
+
+.left-sidebar .email {
+    font-size: 16px;
+    color: #fff;
+    text-align: center;
+    font-weight: 300;
+}
+
 .left-sidebar h2 {
     font-size: 24px;
     color: #fff;
     text-align: center;
     font-weight: 300;
 }
+
+
 .left-sidebar .address {
     margin-bottom: 30px;
 }
